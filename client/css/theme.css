@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.form1{                                                                                        
+    
+     width: 900px;
+     margin-left: 160px;
+     margin-top: -55px;
+     border: 1px solid gray;
+}
+.wrapper{
+    width: 850px;
+    margin: auto;
+}
+#camra{
+    display: inline-block;
+    width: 60px;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+#hd{
+    display: inline-block;
+    margin-left: 250px;
+   
+    }
+#direct{
+    display: inline-block;
+    float: right;
+   
+}  
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hm{
+     width:850px;
+    margin: auto;
+}
+.form2{
+    display: inline-block;
+    width: 900px;
+	height: auto;
+	margin-left: 160px;
+	margin-top: 5px;
+    border: 1px solid gray;
+}
+.we{
+    width:850px;
+    margin: auto;
+}
+#fids{
+    display: inline-block;
+    float: left;
+}
+#fids1{
+    display: inline-block;
+    
+    margin-left: 650px;
+}
+#fids2{
+    display: inline-block;
+    float: right;
+
+}
+#story{
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 50px;
+}
+#likh{
+    display: inline-block;
+    margin-top: 25px;
+}
+#zuck{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+#andy{
+    display: inline-block;
+    margin-top: 20px;
+}
+#kevin{
+    display: inline-block;
+}
+#kelly{
+    display: inline-block;
+}
+#imuggle{
+    display: inline-block;
+}
+#mari{
+    display: inline-block;
+}
+#dsittel{
+    display: inline-block;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.form3{                                                                                                    
+     
+     width: 900px;
+     height: auto;
+     margin-left: 160px;
+     margin-top: 2px;
+     margin-bottom: 2px;
+     border: 1px solid gray;
+}
+.bottom{
+    width: 850px;
+    margin: auto;
+}
+#home{
+    display: inline-block;
+   
+}
+#search{
+    display: inline-block;
+    float: center;
+    margin-left: 90px;
+    
+}
+#add{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 150px;
+    
+    
+}
+#like{
+    display: inline-block;
+    margin-left: 530px;
+    margin-top: -60px;
+   
+    }
+#profile{
+    display: inline-block;
+    float: right;
+    margin-top: -30px;
+}   
+
+.form4{
+     width: 873px;
+     height: 400px;
+     margin-left: -25px;
+     margin-top: 2px;
+     border: 1px  gray;
+}
+.content{
+    width: 850px;
+    margin: auto;
+}
